@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    font-size: 20px;
+}
+#meunome {
+   font-family: Helvetica, Arial, sans-serif;
+   text-align: center; 
+}
+#minhafoto {
+    text-align: center;
+}
+#descricao {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    text-align: center;   
+}
+h2 {
+    text-align: center;
+}
+#listahab {
+    text-align: center;
+    text-decoration: underline;
+}
+li {
+    list-style-type: none;
+} 
