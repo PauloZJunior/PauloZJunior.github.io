@@ -23,4 +23,19 @@ h2 {
 }
 li {
     list-style-type: none;
+}
+.python {
+    font-size: 30px;
 } 
+.html {
+    font-size: 17px;
+}
+.css {
+    font-size: 20px;
+}
+.javascript {
+    font-size: 15px;
+}
+.mysql {
+    font-size: 25px;
+}
