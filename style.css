@@ -1,15 +1,18 @@
+* {
+    padding: 2px;
+}
 body {
     background-color: bisque;
     font-size: 20px;
 }
-#meunome {
+.meunome {
    font-family: Helvetica, Arial, sans-serif;
    text-align: center; 
 }
-#minhafoto {
+.minhafoto {
     text-align: center;
 }
-#descricao {
+.descricao {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-style: italic;
     text-align: center;   
@@ -17,7 +20,7 @@ body {
 h2 {
     text-align: center;
 }
-#listahab {
+.listahab {
     text-align: center;
     text-decoration: underline;
 }
@@ -38,4 +41,8 @@ li {
 }
 .mysql {
     font-size: 25px;
+}
+.links {
+    text-align: center;
+    padding-top: 20px;
 }
